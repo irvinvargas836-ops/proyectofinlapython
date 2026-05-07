@@ -1,0 +1,4 @@
+1|manzana|12|comida
+2|camisa|234|ropa
+3|gomitas|15|comida
+4|chaqueta|245|ropa
