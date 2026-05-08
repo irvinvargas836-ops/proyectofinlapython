@@ -1,4 +1,6 @@
-1|manzana|12|comida
-2|camisa|234|ropa
+
+1|pan|5|comida
+2|agua|35|bebida
 3|gomitas|15|comida
-4|chaqueta|245|ropa
+4|pasta|45|comida
+5|pezcado|345|comida
